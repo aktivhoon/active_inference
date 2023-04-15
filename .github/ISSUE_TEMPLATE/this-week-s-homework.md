@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Please check the following checklist first, to specify the goal of this week's homework.
+### Please check the following checklist first, to specify the goal of this week's homework.
 - [ ] To understand the equation better?
 - [ ] To provide better insights about the concept?
 - [ ] For bug fix?
